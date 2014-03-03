@@ -1,0 +1,30 @@
+{
+  "name": "soundbank-multi",
+  "version": "0.0.0",
+  "description": "Repeat template descriptor for every item in input array, replacing placeholder with current item.",
+  "main": "index.js",
+  "devDependencies": {
+    "tape": "~2.5.0"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/soundbank-multi.git"
+  },
+  "keywords": [
+    "waapi",
+    "soundbank",
+    "provider",
+    "repeat",
+    "chord",
+    "split"
+  ],
+  "author": "Matt McKegg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmckegg/soundbank-multi/issues"
+  },
+  "homepage": "https://github.com/mmckegg/soundbank-multi"
+}
