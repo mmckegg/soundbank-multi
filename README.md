@@ -1,7 +1,7 @@
 soundbank-multi
 ===
 
-Repeat template slot descriptor for every item in input array, replacing placeholder with current item.
+Repeat template descriptor for every item in input array, replacing placeholder with current item.
 
 Use as a value provider in [soundbank](https://github.com/mmckegg/soundbank).
 
