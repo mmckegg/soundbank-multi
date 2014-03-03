@@ -1,6 +1,6 @@
 {
   "name": "soundbank-multi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Repeat template descriptor for every item in input array, replacing placeholder with current item.",
   "main": "index.js",
   "devDependencies": {
