@@ -17,7 +17,7 @@ Create a chord slot:
 
 ```js
 var Soundbank = require('soundbank')
-var audioContext = new webkitAudioContext()
+var audioContext = new AudioContext()
 
 audioContext.providers = {
   multi: require('soundbank-multi')
